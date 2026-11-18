@@ -1,5 +1,5 @@
-﻿using DCP.Framework.Math.Interfaces;
-using OpenDCP.Framework.DataTypes.Equipment.Entities.SensorData;
+﻿using OpenDCP.Framework.DataTypes.Equipment.Entities.SensorData;
+using OpenDCP.Framework.Math.Interfaces;
 
 namespace OpenDCP.Framework.Math.Adapter.Equipment
 {

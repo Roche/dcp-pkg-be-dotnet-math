@@ -5,15 +5,15 @@
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/Roche/dcp-pkg-be-dotnet-math</RepositoryUrl>
     <PackageProjectUrl>https://open-dcp.ai/</PackageProjectUrl>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DCP.Framework.Math" Version="0.1.0-alpha.30" />
     <PackageReference Include="OpenDCP.Framework.DataTypes.Equipment" Version="0.3.0" />
+    <PackageReference Include="OpenDCP.Framework.Math" Version="0.1.0" />
   </ItemGroup>
 
   <ItemGroup>
