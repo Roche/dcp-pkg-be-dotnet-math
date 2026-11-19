@@ -5,7 +5,7 @@
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/Roche/dcp-pkg-be-dotnet-math</RepositoryUrl>
     <PackageProjectUrl>https://open-dcp.ai/</PackageProjectUrl>
-    <Version>0.1.1</Version>
+    <Version>0.1.2</Version>
 		<TargetFramework>net8.0</TargetFramework>
 		<LangVersion>8.0</LangVersion>
 		<Nullable>enable</Nullable>
